@@ -1,3 +1,6 @@
+# prevent pw from being pushed to GitHub or other version control system
+.streamlit/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
